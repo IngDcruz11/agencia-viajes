@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Agencia de Viajes (Docker)",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "agencia_viajes_db",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
